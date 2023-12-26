@@ -23,6 +23,8 @@ Description: The problem is asking  to implement logic in  API endpoint that che
 * if you didn't request in the last 30 minute then it will show response code:200 OK. Then to add data go to Body -> Raw ->select JSON. add some data it will go to database.
 * if you requested in the last 30 minute then it will show response code:409 conflict ."you have already placed a support ticket". 
 
+<img src="./Screenshots/postman.png" width="500" height="350" title="" /> <img src="./Screenshots/apidata.png" width="500" height="350" title="" />
+
 ## Task 2
 Description: This problem statement is common in web application development, particularly in the context of user authentication and account activation. It ensures that users provide valid email addresses, verify their identity through activation, and only gain access to the system after completing the activation process.
 
@@ -40,5 +42,9 @@ Description: This problem statement is common in web application development, pa
 * After clicking now the activation is completed if you see the database isverified is true now . After that it will redirect you to Login page.
 * Now if you login with your given mail and password you will see some text.      
 
-   
+  <img src="./Screenshots/signup.png" width="500" height="350" title="" /> <img src="./Screenshots/activate.png" width="500" height="350" title="" />
+
+   <img src="./Screenshots/email.png" width="500" height="350" title="" /> <img src="./Screenshots/signupdatabase.png" width="500" height="350" title="" />
+
+   <img src="./Screenshots/login.png" width="500" height="350" title="" />
 
